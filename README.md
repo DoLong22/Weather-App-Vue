@@ -19,6 +19,9 @@ yarn build
 ```
 yarn lint
 ```
-
+### Set environment variables:
+```
+cp .env.example .env
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
